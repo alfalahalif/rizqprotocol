@@ -1,0 +1,6 @@
+bin/
+*.bin
+*.py
+*.json
+rizqprotocol/
+rizqprotocol-backup/
